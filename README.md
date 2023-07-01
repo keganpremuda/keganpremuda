@@ -1,7 +1,6 @@
 <h1>Hi, I'm Kegan! <br/><a href="keganpremuda.github.io/Kegan-Premudas-Portfolio/">Electrical Engineer</a>, <a href="https://www.linkedin.com/in/kegan-premuda/">Operations Professional</a>
 
-<h2>👨‍💻 Electrical Engineering Projects:</h2>
-Checkout my portfolio <a href= "https://keganpremuda.github.io/Kegan-Premudas-Portfolio" target="_blank">HERE</a>
+<h2><br>👨‍💻 Checkout my portfolio of electrical engineering projects <a href= "https://keganpremuda.github.io/Kegan-Premudas-Portfolio" target="_blank">HERE</a><br></h2>
 
 <!-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   - [My Portfolio](https://keganpremuda.github.io/Kegan-Premudas-Portfolio/)
@@ -18,8 +17,7 @@ Checkout my portfolio <a href= "https://keganpremuda.github.io/Kegan-Premudas-Po
   - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
 - <b>Python</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm) -->
-
-<h2> 🤳 Connect with me:</h2>
+  <h2><br><br>🤳 Connect with me:</h2>
 
 [<img align="left" alt="KeganPremuda | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
